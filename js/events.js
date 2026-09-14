@@ -58,7 +58,7 @@ const events = [
     description: "An introduction to the community for first-year students, with a short talk on getting started in tech.",
     longDescription:
       "A welcome session for incoming students covering what the community does, how to get involved, and a short talk on building good habits early in a tech-focused degree.",
-    date: "2026-08-05",
+    date: "2027-08-05",
     time: "10:00 AM - 12:00 PM",
     venue: "Main Auditorium",
     image: "images/events/events-1.svg",
